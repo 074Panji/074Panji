@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Panji Cahya Prasetyo" width="100%">
+  <img src="asset/banner.png" alt="Panji Cahya Prasetyo" width="100%">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/asta.png" alt="Asta - Black Clover" width="240">
+  <img src="asset/asta.png" alt="Asta - Black Clover" width="240">
 </p>
 
 ![SKILLS](https://img.shields.io/badge/SKILLS-8B0000?style=for-the-badge)
